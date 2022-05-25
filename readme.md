@@ -1,0 +1,1 @@
+Aplicacion front para el control de inventarios
